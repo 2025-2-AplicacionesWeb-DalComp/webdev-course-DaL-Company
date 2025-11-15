@@ -95,9 +95,7 @@ Las siguientes informaciones están vinculadas con cada sección del curso:
 | 1 | Introducción al entorno web | https://www.w3schools.com/html/html_intro.asp |
 | 2 | Plantilla HTML base | https://www.w3schools.com/html/html_basic.asp |
 | 3 | Manejo de imágenes y enlaces | https://www.w3schools.com/html/html_images.asp |
-|   |                           | https://www.w3schools.com/html/html_links.asp |
 | 4 | Aplicación de estilos CSS | https://www.w3schools.com/css/css_intro.asp |
-|   |                           | https://www.w3schools.com/css/css_syntax.asp |
 | 5 | Desarrollo del proyecto final | https://www.w3schools.com/howto/howto_website_make.asp |
 
 ---
