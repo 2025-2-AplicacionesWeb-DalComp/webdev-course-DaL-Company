@@ -77,11 +77,11 @@ https://github.com/yourusername/web-fundamentals-course-teamname
 
 | Lección | Actividad | Editor |
 |--------|-----------|--------|
-| 1 | ¿Qué es desarrollo web? | https://htmlpen.net |
-| 2 | Esqueleto de HTML | https://htmlpen.net |
-| 3 | Imágenes, enlaces y listas | https://htmlpen.net |
-| 4 | Estilos con CSS | https://htmlpen.net |
-| 5 | Proyecto final | https://htmlpen.net |
+| 1 | ¿Qué es desarrollo web? | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| 2 | Esqueleto de HTML | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| 3 | Imágenes, enlaces y listas | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| 4 | Estilos con CSS | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| 5 | Proyecto final | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
 
 ### **Cuestionario final**
 https://forms.gle/your-quiz-link
