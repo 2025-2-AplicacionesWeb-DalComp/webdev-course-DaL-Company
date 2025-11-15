@@ -1,4 +1,5 @@
 ###### Example 1 ######
+
 h1 {
     color: blue;
     text-align: center;
@@ -8,4 +9,75 @@ p {
     color: green;
     font-size: 18px;
 }
+
+###### Example 2 ######
+
+body {
+    background-color: lightyellow;
+}
+
+////////
+
+body {
+    background: linear-gradient(to right, #89f7fe, #66a6ff);
+}
+
+###### Example 3 ######
+
+p {
+    color: #333;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    border: 2px solid #000;
+    padding: 10px;
+}
+
+###### Example 4 ######
+
+.importante {
+    color: red;
+    font-weight: bold;
+}
+
+###### Example 5 ######
+
+#titulo-principal {
+    color: purple;
+    font-size: 30px;
+}
+
+
+###### Example 6 ######
+
+.boton {
+    background-color: orange;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.boton:hover {
+    background-color: red;
+    color: white;
+}
+
+####### Example 7 #######
+
+.caja {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 30px;
+}
+
+####### Example 8 #######
+
+.tarjeta {
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+
+
+
 
