@@ -84,29 +84,26 @@ Video: https://youtu.be/gBnFrPrnhUY
 **Recurso audiovisual**  
 Video: [https://youtu.be/link5](https://codepen.io/Marshjek/pen/KQZVBQ)
 
-**Proyecto final**  
-https://htmlpen.net
-
 ---
 
-## 3. Actividades Prácticas
+## 3. Un poco sobre...
 
-Las siguientes actividades están vinculadas con cada sección del curso. Todas pueden ejecutarse en CodePen:
+Las siguientes informaciones están vinculadas con cada sección del curso:
 
-| Sesión | Actividad | Acceso |
-|--------|-----------|--------|
-| 1 | Introducción al entorno web | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-| 2 | Plantilla HTML base | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-| 3 | Manejo de imágenes y enlaces | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-| 4 | Aplicación de estilos CSS | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-| 5 | Desarrollo del proyecto final | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| Sesión | Información | Acceso |
+|--------|-------------|--------|
+| 1 | Introducción al entorno web | https://www.w3schools.com/html/html_intro.asp |
+| 2 | Plantilla HTML base | https://www.w3schools.com/html/html_basic.asp |
+| 3 | Manejo de imágenes y enlaces | https://www.w3schools.com/html/html_images.asp |
+|   |                           | https://www.w3schools.com/html/html_links.asp |
+| 4 | Aplicación de estilos CSS | https://www.w3schools.com/css/css_intro.asp |
+|   |                           | https://www.w3schools.com/css/css_syntax.asp |
+| 5 | Desarrollo del proyecto final | https://www.w3schools.com/howto/howto_website_make.asp |
 
 ---
 
 ## 4. Evaluación
-- **Cuestionario final:** https://forms.gle/your-quiz-link  
-- **Entrega del proyecto:** mediante enlace de HTML Pen o CodePen  
-- **Participación opcional:** publicación con hashtag *WebFundamentals* o *MiPrimeraWeb*
+- **Cuestionario final:** [https://forms.gle/HTML](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
 
 ---
 
