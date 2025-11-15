@@ -1,110 +1,102 @@
-# 🌐 Programación-Web-Fundamentals
+# Programación Web – Curso Fundamental
 
-## 🧠 Resumen del Curso
-Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos del **desarrollo web**, aprendiendo a crear páginas con **HTML y CSS** desde cero.  
-No requiere instalaciones: todo se realiza usando **HTML Pen**, un editor online gratuito.
+## Descripción General
+Este curso introductorio está diseñado para que estudiantes entre **12 y 17 años** aprendan los conceptos esenciales del **desarrollo web moderno**, creando sus primeras páginas utilizando **HTML y CSS**.  
+El curso se desarrolla completamente en línea, utilizando la plataforma **HTML Pen**, por lo que no es necesario instalar ningún programa.
 
-**Duración total:** ~60 minutos  
-**Público objetivo:** Estudiantes de 12 a 17 años sin experiencia previa  
-**Prerrequisitos:** Ninguno  
-**Herramientas necesarias:** Solo un navegador web  
-**Editor principal:** https://htmlpen.net  
-**📂 Repositorio de código fuente:** https://github.com/yourusername/web-fundamentals-course-teamname
-
----
-
-## 📚 Secuencia de Lecciones
-
-### **Lección 1: Introducción al desarrollo web (10 min)**
-- **Descripción:** ¿Qué es un sitio web? ¿Cómo funciona Internet? ¿Qué tecnologías se usan para crear páginas web?
-- **Video:** https://youtu.be/link1
-- **Conclusiones clave:**
-  - HTML estructura, CSS diseña, JavaScript agrega interacción.
-  - Para programar solo necesitas un navegador.
-- **Práctica:** https://htmlpen.net
+- **Duración aproximada:** 60 minutos  
+- **Nivel:** Principiantes absolutos  
+- **Requisitos:** Ninguno  
+- **Editor en línea utilizado:** https://htmlpen.net  
+- **Repositorio del proyecto:** https://github.com/yourusername/web-fundamentals-course-teamname
 
 ---
 
-### **Lección 2: Estructura básica de HTML (12 min)**
-- **Descripción:** Aprende a escribir el esqueleto mínimo de una página web.
-- **Video:** https://youtu.be/link2
-- **Conclusiones clave:**
-  - Etiquetas esenciales: `<html>`, `<head>`, `<title>`, `<body>`.
-  - El navegador interpreta el HTML de arriba a abajo.
-- **Práctica:** https://htmlpen.net
+## Contenido del Curso
+
+### 1. Introducción al Desarrollo Web (10 min)
+**Temas tratados:**  
+- Qué es una página web  
+- Cómo funciona la web por dentro  
+- Rol de HTML, CSS y JS en un sitio  
+**Video:** https://youtu.be/link1  
+**Ejercicio guiado:** https://htmlpen.net  
 
 ---
 
-### **Lección 3: Elementos comunes de HTML (12 min)**
-- **Descripción:** Uso de elementos como imágenes, enlaces y listas.
-- **Video:** https://youtu.be/link3
-- **Conclusiones clave:**
-  - `<img>` para imágenes  
-  - `<a>` para enlaces  
-  - `<ul>`/`<ol>` para listas  
-  - Atributos como `src`, `href` y `alt` proporcionan información esencial
-- **Práctica:** https://htmlpen.net
+### 2. Estructura base de un documento HTML (12 min)
+**Temas tratados:**  
+- Plantilla mínima de una página  
+- Función de `<head>` y `<body>`  
+- Organización del contenido  
+**Video:** https://youtu.be/link2  
+**Ejemplo práctico:** https://htmlpen.net  
 
 ---
 
-### **Lección 4: Introducción a CSS (13 min)**
-- **Descripción:** Primeros pasos con CSS: colores, fuentes, tamaños, clases y selectores.
-- **Video:** https://youtu.be/gBnFrPrnhUY
-- **Conclusiones clave:**
-  - Sintaxis básica: `selector { propiedad: valor; }`
-  - Estilos comunes: `color`, `background-color`, `font-size`, `text-align`
-  - Selectores importantes: clases (`.clase`) e IDs (`#id`)
-- **Práctica:** https://htmlpen.net
+### 3. Elementos esenciales de HTML (12 min)
+**Temas tratados:**  
+- Imágenes con `<img>`  
+- Enlaces con `<a>`  
+- Listas ordenadas y no ordenadas  
+- Uso correcto de atributos  
+**Video:** https://youtu.be/link3  
+**Práctica:** https://htmlpen.net  
 
 ---
 
-### **Lección 5: Mi primera página web (13 min)**
-- **Descripción:** Proyecto final integrando todo lo aprendido.
-- **Video:** https://youtu.be/link5
-- **Conclusiones clave:**
-  - Combina HTML + CSS para crear una página con estructura completa.
-  - Secciones recomendadas: encabezado, contenido principal, imagen, enlaces, pie de página.
-- **Proyecto final:** https://htmlpen.net
+### 4. Primeros pasos en CSS (13 min)
+**Temas tratados:**  
+- Sintaxis del CSS  
+- Estilos básicos (colores, tipografías, tamaños)  
+- Identificadores y clases  
+- Aplicación de estilos desde HTML Pen  
+**Video:** https://youtu.be/gBnFrPrnhUY  
+**Actividad:** https://htmlpen.net  
 
 ---
 
-## 🧩 Recursos adicionales
-
-### **Código fuente completo**
-https://github.com/yourusername/web-fundamentals-course-teamname
-
-### **Actividades prácticas**
-
-| Lección | Actividad | Editor |
-|--------|-----------|--------|
-| 1 | ¿Qué es desarrollo web? | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-| 2 | Esqueleto de HTML | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-| 3 | Imágenes, enlaces y listas | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-| 4 | Estilos con CSS | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-| 5 | Proyecto final | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
-
-### **Cuestionario final**
-https://forms.gle/your-quiz-link
-
-### **Comparte tu proyecto**
-Usa el hashtag **#WebFundamentals** o **#MiPrimeraWeb**
+### 5. Construyendo tu primera página web completa (13 min)
+**Temas tratados:**  
+- Estructura recomendada de una web simple  
+- Combinando HTML + CSS en un solo proyecto  
+- Buenas prácticas para principiantes  
+**Video:** https://youtu.be/link5  
+**Proyecto final:** https://htmlpen.net  
 
 ---
 
-## 👥 Elaboración del Curso
+## Materiales Complementarios
+
+### Actividades del curso
+
+| Módulo | Tema | Acceso |
+|-------|-------|--------|
+| 1 | Introducción | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 2 | Documento HTML básico | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 3 | Multimedia y enlaces | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 4 | Primeros estilos | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 5 | Proyecto final | https://codepen.io/Marshjek/pen/KQZVBQ |
+
+### Evaluación y participación
+- **Cuestionario final:** https://forms.gle/your-quiz-link  
+- **Compartir proyectos:** Usa los hashtags **#WebFundamentals** o **#MiPrimeraWeb**
+
+---
+
+## Información del Equipo
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**  
 **Carrera:** Ingeniería de Software  
-**Curso:** 1ASI0730 - Aplicaciones Web  
-**Período:** 202520  
-**NRC:** 7452
+**Curso:** 1ASI0730 – Aplicaciones Web  
+**Ciclo:** 202520  
+**NRC:** 7452  
 
-**Equipo:** [Nombre del equipo]  
-**Líder:** [Nombres y Apellidos]  
-**Integrantes:**  
-- Avalos Cordova, Diego Andres 
+**Equipo de trabajo:**  
+- Avalos Córdova, Diego Andrés  
 - [Nombre 2]  
 - [Nombre 3]  
 - [Nombre 4]  
 
 **Fecha de entrega:** [Fecha]
+
