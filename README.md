@@ -1,102 +1,128 @@
-# Programación Web – Curso Fundamental
+# Programación Web – Módulo Fundamental
 
-## Descripción General
-Este curso introductorio está diseñado para que estudiantes entre **12 y 17 años** aprendan los conceptos esenciales del **desarrollo web moderno**, creando sus primeras páginas utilizando **HTML y CSS**.  
-El curso se desarrolla completamente en línea, utilizando la plataforma **HTML Pen**, por lo que no es necesario instalar ningún programa.
+## 1. Introducción
+Este documento corresponde al material oficial del curso **Programación Web – Fundamentals**, diseñado como una guía de aprendizaje rápido sobre la creación de páginas web utilizando **HTML** y **CSS**.  
+La capacitación está orientada a estudiantes sin experiencia previa y se desarrolla íntegramente mediante herramientas en línea.
 
-- **Duración aproximada:** 60 minutos  
-- **Nivel:** Principiantes absolutos  
-- **Requisitos:** Ninguno  
-- **Editor en línea utilizado:** https://htmlpen.net  
-- **Repositorio del proyecto:** https://github.com/yourusername/web-fundamentals-course-teamname
-
----
-
-## Contenido del Curso
-
-### 1. Introducción al Desarrollo Web (10 min)
-**Temas tratados:**  
-- Qué es una página web  
-- Cómo funciona la web por dentro  
-- Rol de HTML, CSS y JS en un sitio  
-**Video:** https://youtu.be/link1  
-**Ejercicio guiado:** https://htmlpen.net  
+**Características generales del curso**
+- Duración aproximada: 60 minutos  
+- Modalidad: 100% online  
+- Público objetivo: estudiantes de 12 a 17 años  
+- Editor utilizado: HTML Pen  
+- Repositorio del proyecto:  
+  https://github.com/yourusername/web-fundamentals-course-teamname
 
 ---
 
-### 2. Estructura base de un documento HTML (12 min)
-**Temas tratados:**  
-- Plantilla mínima de una página  
-- Función de `<head>` y `<body>`  
-- Organización del contenido  
-**Video:** https://youtu.be/link2  
-**Ejemplo práctico:** https://htmlpen.net  
+## 2. Contenido del Programa
+
+### 2.1 Sesión 1 — Conceptos iniciales del desarrollo web (10 min)
+**Objetivos específicos**
+- Identificar qué es un sitio web.  
+- Comprender el rol de HTML, CSS y JavaScript.  
+- Reconocer cómo el navegador interpreta un documento.
+
+**Recurso audiovisual**  
+Video: https://youtu.be/link1  
+
+**Práctica asociada**  
+Editor: https://htmlpen.net
 
 ---
 
-### 3. Elementos esenciales de HTML (12 min)
-**Temas tratados:**  
-- Imágenes con `<img>`  
-- Enlaces con `<a>`  
-- Listas ordenadas y no ordenadas  
-- Uso correcto de atributos  
-**Video:** https://youtu.be/link3  
-**Práctica:** https://htmlpen.net  
+### 2.2 Sesión 2 — Estructura mínima de un documento HTML (12 min)
+**Puntos clave**
+- Creación de la estructura con etiquetas principales.  
+- Función de las secciones `<head>` y `<body>`.  
+- Orden jerárquico del contenido.
+
+**Recurso audiovisual**  
+Video: https://youtu.be/link2  
+
+**Entorno de práctica**  
+https://htmlpen.net
 
 ---
 
-### 4. Primeros pasos en CSS (13 min)
-**Temas tratados:**  
-- Sintaxis del CSS  
-- Estilos básicos (colores, tipografías, tamaños)  
-- Identificadores y clases  
-- Aplicación de estilos desde HTML Pen  
-**Video:** https://youtu.be/gBnFrPrnhUY  
-**Actividad:** https://htmlpen.net  
+### 2.3 Sesión 3 — Elementos HTML comunes (12 min)
+**Contenido**
+- Inclusión de imágenes mediante `<img>`.  
+- Enlaces con la etiqueta `<a>`.  
+- Organización de listas con `<ul>`, `<ol>` y `<li>`.  
+- Uso básico de atributos (`src`, `href`, `alt`).
+
+**Recurso audiovisual**  
+Video: https://youtu.be/link3
+
+**Práctica**  
+https://htmlpen.net
 
 ---
 
-### 5. Construyendo tu primera página web completa (13 min)
-**Temas tratados:**  
-- Estructura recomendada de una web simple  
-- Combinando HTML + CSS en un solo proyecto  
-- Buenas prácticas para principiantes  
-**Video:** https://youtu.be/link5  
-**Proyecto final:** https://htmlpen.net  
+### 2.4 Sesión 4 — Introducción a la hoja de estilos CSS (13 min)
+**Aspectos desarrollados**
+- Sintaxis básica de una regla CSS.  
+- Estilos generales de texto y color.  
+- Diferencias entre clases e identificadores.  
+- Integración de estilos desde HTML Pen.
+
+**Recurso audiovisual**  
+Video: https://youtu.be/gBnFrPrnhUY
+
+**Práctica**  
+https://htmlpen.net
 
 ---
 
-## Materiales Complementarios
+### 2.5 Sesión 5 — Construcción de una página web sencilla (13 min)
+**Habilidades desarrolladas**
+- Organización del contenido principal.  
+- Aplicación simultánea de HTML + CSS.  
+- Uso de secciones: encabezado, cuerpo y pie.  
+- Preparación del proyecto final.
 
-### Actividades del curso
+**Recurso audiovisual**  
+Video: https://youtu.be/link5
 
-| Módulo | Tema | Acceso |
-|-------|-------|--------|
-| 1 | Introducción | https://codepen.io/Marshjek/pen/KQZVBQ |
-| 2 | Documento HTML básico | https://codepen.io/Marshjek/pen/KQZVBQ |
-| 3 | Multimedia y enlaces | https://codepen.io/Marshjek/pen/KQZVBQ |
-| 4 | Primeros estilos | https://codepen.io/Marshjek/pen/KQZVBQ |
-| 5 | Proyecto final | https://codepen.io/Marshjek/pen/KQZVBQ |
+**Proyecto final**  
+https://htmlpen.net
 
-### Evaluación y participación
+---
+
+## 3. Actividades Prácticas
+
+Las siguientes actividades están vinculadas con cada sección del curso. Todas pueden ejecutarse en CodePen:
+
+| Sesión | Actividad | Acceso |
+|--------|-----------|--------|
+| 1 | Introducción al entorno web | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 2 | Plantilla HTML base | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 3 | Manejo de imágenes y enlaces | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 4 | Aplicación de estilos CSS | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 5 | Desarrollo del proyecto final | https://codepen.io/Marshjek/pen/KQZVBQ |
+
+---
+
+## 4. Evaluación
 - **Cuestionario final:** https://forms.gle/your-quiz-link  
-- **Compartir proyectos:** Usa los hashtags **#WebFundamentals** o **#MiPrimeraWeb**
+- **Entrega del proyecto:** mediante enlace de HTML Pen o CodePen  
+- **Participación opcional:** publicación con hashtag *WebFundamentals* o *MiPrimeraWeb*
 
 ---
 
-## Información del Equipo
+## 5. Información Institucional
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**  
 **Carrera:** Ingeniería de Software  
 **Curso:** 1ASI0730 – Aplicaciones Web  
 **Ciclo:** 202520  
-**NRC:** 7452  
+**NRC:** 7452
 
-**Equipo de trabajo:**  
+**Equipo responsable**
 - Avalos Córdova, Diego Andrés  
 - [Nombre 2]  
 - [Nombre 3]  
-- [Nombre 4]  
+- [Nombre 4]
 
-**Fecha de entrega:** [Fecha]
+**Fecha de presentación:** [Indicar fecha]
 
