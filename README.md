@@ -10,7 +10,7 @@ La capacitación está orientada a estudiantes sin experiencia previa y se desar
 - Público objetivo: estudiantes de 12 a 17 años  
 - Editor utilizado: HTML Pen  
 - Repositorio del proyecto:  
-  https://github.com/yourusername/web-fundamentals-course-teamname
+  https://github.com/2025-2-AplicacionesWeb-DalComp/Programaci-n-Web-Fundamentals
 
 ---
 
