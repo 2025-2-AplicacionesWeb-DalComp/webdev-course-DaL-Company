@@ -1,0 +1,51 @@
+///Como reto, crea tu propia página en HTML Pen con un fondo colorido y texto personalizado.
+
+###### HTML #######
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Página Colorida</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Mi Primera Página con CSS</h1>
+
+    <div class="contenedor">
+        <p>Hola, soy <strong>Tu Nombre</strong>.</p>
+        <p>Esta es una página creada como parte del reto de Introducción a CSS.</p>
+        <p>Usé un fondo colorido y estilos personalizados.</p>
+    </div>
+
+</body>
+</html>
+
+####### CSS #######
+
+/* Fondo colorido en degradado */
+body {
+    background: linear-gradient(135deg, #6a5acd, #00bfff, #7fffd4);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
+
+/* Título principal */
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+}
+
+/* Caja con texto */
+.contenedor {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 25px;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 12px;
+    backdrop-filter: blur(4px);
+    font-size: 20px;
+}
