@@ -99,4 +99,3 @@
 **Tú:**
 > "Ha sido un placer ser su guía en esta introducción al increíble mundo del desarrollo web. Esto es solo el comienzo. No dejen de practicar, no dejen de crear, y nunca dejen de ser curiosos. ¡Nos vemos en la próxima, futuros programadores! ¡Adiós!"
 
-**(Música de cierre sube)**
