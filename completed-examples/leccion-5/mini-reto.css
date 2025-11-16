@@ -1,1 +1,91 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    font-family: "Open Sans", Arial, sans-serif;
+    color: #333333;
+}
+
+/* Encabezado */
+header {
+    text-align: center;
+    padding: 30px 20px;
+    background-color: #f3e6ff;
+}
+
+h1 {
+    color: #7b2cbf;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #5a189a;
+    margin-top: 5px;
+}
+
+/* Descripción debajo del nombre */
+.descripcion {
+    max-width: 600px;
+    margin: 10px auto 0;
+    font-size: 18px;
+}
+
+/* Sección de presentación con imagen */
+.presentacion {
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.presentacion img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+/* Listas */
+.listas {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.listas h2 {
+    margin-top: 20px;
+}
+
+.listas ul,
+.listas ol {
+    padding-left: 25px;
+    font-size: 16px;
+}
+
+/* Enlace externo */
+.enlace {
+    max-width: 800px;
+    margin: 0 auto 40px;
+    padding: 20px;
+}
+
+.enlace a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.enlace a:hover {
+    text-decoration: underline;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 15px 10px;
+    background-color: #e0c3fc;
+    font-size: 14px;
+}
 
