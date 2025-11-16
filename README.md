@@ -87,13 +87,25 @@ No se requiere ninguna instalación.
 ---
 
 ## 👥 Equipo responsable
-Universidad Peruana de Ciencias Aplicadas (UPC)  
-Carrera: Ingeniería de Software – NRC 7452 (202520)
+
+**Universidad Peruana de Ciencias Aplicadas (UPC)**  
+**Carrera:** Ingeniería de Software  
+**Período:** 202520  
+**Curso:** 1ASI0730 – Aplicaciones Web  
+**NRC:** 7452
+
+**Nombre del equipo:** DaL Company
+
+**Líder del equipo:** Cárdenas Huaman, Mathias Andree 
+
+**Equipo responsable**
 
 - Avalos Córdova, Diego Andrés  
-- Cárdenas Huaman, Mathias Andree  
-- Florez Shimabukuro, Fátima Belén  
+- Cárdenas Huaman, Mathias Andree 
+- Florez Shimabukuro, Fátima Belén
 - [Nombre 4]
+
+**Fecha de presentación:** 16/11/2025
 
 ---
 
