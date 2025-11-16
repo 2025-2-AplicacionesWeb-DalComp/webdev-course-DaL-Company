@@ -36,7 +36,9 @@ Se explica la diferencia entre **frontend** y **backend**, y se presenta CodePen
 - Video: https://youtu.be/06TaPoQSI7U
 
 **Entorno de práctica:**  
-- CodePen base: https://codepen.io/Marshjek/pen/KQZVBQ
+- CodePen base:
+  * Ejercicio 1: https://codepen.io/uszhiyts-the-looper/pen/pvyNZMg
+  * Ejercicio 2: https://codepen.io/uszhiyts-the-looper/pen/gbrLdYE
 
 **Ejercicios:**
 
