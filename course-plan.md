@@ -102,7 +102,7 @@ Se trabaja el uso de atributos como `src`, `href` y `alt`.
 - Uso básico de atributos (`src`, `href`, `alt`).  
 
 **Recurso audiovisual:**  
-- Video: 
+- Video: https://www.youtube.com/watch?v=_oN1kSTb3EU
 
 **Entorno de práctica:**  
 - CodePen base: 
@@ -228,7 +228,7 @@ Puede utilizarse como evaluación formativa al final del curso, para verificar q
 - Cárdenas Huaman, Mathias Andree 
 - Florez Shimabukuro, Fátima Belén
 - Cuentas Peña, Joaquin Alberto
-- 
+- Apaza Bocanegra, Elizabeth Noelia
 
 **Fecha de presentación:** 16/11/2025
 
