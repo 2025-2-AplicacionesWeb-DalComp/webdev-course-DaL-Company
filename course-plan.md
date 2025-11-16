@@ -214,18 +214,17 @@ Puede utilizarse como evaluación formativa al final del curso, para verificar q
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**  
 **Carrera:** Ingeniería de Software  
+**Período:** 202520  
 **Curso:** 1ASI0730 – Aplicaciones Web  
-**Ciclo:** 202520  
-**NRC:** 7452  
+**NRC:** 7452
 
-**Nombre del curso complementario:** Programación Web – Módulo Fundamental  
-
-**Equipo responsable:**
-
+**Nombre del equipo:** 
+**Líder del equipo:**
+**Equipo responsable**
 - Avalos Córdova, Diego Andrés  
-- Cárdenas Huaman, Mathias Andree  
-- Florez Shimabukuro, Fátima Belén  
-- [Nombre 4]  
+- Cárdenas Huaman, Mathias Andree 
+- Florez Shimabukuro, Fátima Belén
+- [Nombre 4]
 
 **Fecha de presentación:** 16/11/2025
 
