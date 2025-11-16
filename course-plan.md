@@ -227,7 +227,8 @@ Puede utilizarse como evaluación formativa al final del curso, para verificar q
 - Avalos Córdova, Diego Andrés  
 - Cárdenas Huaman, Mathias Andree 
 - Florez Shimabukuro, Fátima Belén
-- [Nombre 4]
+- Cuentas Peña, Joaquin Alberto
+- 
 
 **Fecha de presentación:** 16/11/2025
 
