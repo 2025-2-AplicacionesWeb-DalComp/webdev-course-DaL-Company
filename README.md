@@ -81,6 +81,8 @@ Video: https://youtu.be/gBnFrPrnhUY
 - Uso de secciones: encabezado, cuerpo y pie.  
 - Preparación del proyecto final.
 
+[Coparte tu creación](https://docs.google.com/forms/d/e/1FAIpQLSf7m0DWgVZHRkhfwHRR7UugkySjmTZNBzEKXpwNfqSFMJSKRQ/viewform?usp=publish-editor)
+
 **Recurso audiovisual**  
 Video: [https://youtu.be/link5](https://codepen.io/Marshjek/pen/KQZVBQ)
 
