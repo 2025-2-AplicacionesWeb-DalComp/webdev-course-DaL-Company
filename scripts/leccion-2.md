@@ -1,3 +1,4 @@
+<h1>Bienvenida</h1>
 “Bienvenidos a la Sesión 2, titulada Estructura Básica de HTML.
 En la primera sesión conocimos qué es el desarrollo web y por qué es tan importante en la actualidad.
 Ahora vamos a dar el siguiente paso: entender cómo se construye una página web por dentro, usando el lenguaje base de la web: HTML.”
@@ -9,11 +10,13 @@ Así que, cuando escribimos HTML, estamos usando prácticamente el mismo formato
 “Durante esta sesión no vamos a hacer una página con diseño o estilos todavía.
 Hoy aprenderemos a crear el esqueleto de una página, la estructura sobre la que después se construye todo.”
 
+<h1>Objetivo</h1>
 “El objetivo de la sesión es reconocer y escribir el esqueleto mínimo de una página HTML.
 Eso significa que al final de la clase sabrán exactamente qué partes no pueden faltar para que el navegador entienda que lo que escribimos es una página web.”
 
 “Parece sencillo, pero sin esta estructura, el navegador no sabría ni dónde empieza ni dónde termina el contenido.”
 
+<h1>¿Qué es un documento HTML?</h1>
 “Veamos primero cómo luce un documento HTML muy básico.
 En pantalla tenemos un ejemplo que se ve así:”
 
@@ -37,6 +40,7 @@ Así que, si ves ‘Hola mundo’, ¡felicidades! tu HTML funciona.”
 “Por cierto, aunque aquí las etiquetas están en mayúscula, hoy en día se recomienda escribirlas en minúscula.
 Los navegadores modernos lo aceptan igual, pero mantener minúsculas es una buena práctica profesional.”
 
+<h1>El esqueleto mínimo</h1>
 “Ahora pasemos al esqueleto mínimo de una página moderna.
 Esto es lo que todo documento HTML debe tener si queremos que funcione correctamente.”
 
@@ -45,27 +49,28 @@ Esto es lo que todo documento HTML debe tener si queremos que funcione correctam
 “Primero, la línea <!DOCTYPE html> le indica al navegador que el documento está escrito en HTML5, la versión más actual.
 Es como una presentación: el navegador ve esa línea y dice: ‘Ah, esto es HTML moderno’.”
 
-“Después tenemos <html lang="es">, que abre el documento y le dice al navegador que el idioma principal es español.
+“Después tenemos <html *lang="es">, que abre el documento y le dice al navegador que el idioma principal es español.
 Si el sitio fuera en inglés, podríamos usar lang="en".
 Este atributo es importante, especialmente para la accesibilidad, ya que permite que lectores de pantalla o traductores automáticos interpreten correctamente el idioma.”
 
 “Dentro del <head> colocamos información sobre la página que no se muestra directamente al usuario.
-Por ejemplo, el <meta charset="UTF-8"> evita que aparezcan caracteres raros cuando escribimos palabras con acento o la letra ñ.”
+Por ejemplo, el <meta *charset=" UTF-8"> evita que aparezcan caracteres raros cuando escribimos palabras con acento o la letra ñ.”
 
 “El <title> define el nombre que aparece en la pestaña del navegador.
 Si ahora mismo cambio el título de ‘Mi Primera Web’ a ‘Página de Mathias’, el cambio se reflejará inmediatamente en la parte superior de CodePen.”
 
 “Finalmente tenemos el <body>, que contiene todo lo visible: texto, imágenes, botones, listas, etc.”
 
-“Si dentro del body escribimos un encabezado <h1> y un párrafo <p>, veremos cómo el navegador los muestra con diferentes tamaños.”
+“Si dentro del body escribimos un encabezado <*h1> y un párrafo **<p>, veremos cómo el navegador los muestra con diferentes tamaños.”
 
 “El navegador interpreta cada etiqueta de manera diferente:
-<h1> significa un título principal, y <p> un párrafo normal.”
+<*h1> significa un título principal, y <**p> un párrafo normal.”
 
 “Dato interesante: HTML no se inventó pensando en diseño, sino en estructura y significado.
-Por eso el <h1> no dice cómo debe verse, sino que indica que es el título más importante.
+Por eso el <*h1> no dice cómo debe verse, sino que indica que es el título más importante.
 El diseño vendrá después, con CSS.”
 
+<h1>Head vs Body</h1>
 “Ahora comparemos las dos partes principales: el head y el body.”
 
 “Todo lo que va en el head no se ve directamente en la página, pero el navegador lo usa para entender cómo debe interpretarla.
@@ -81,6 +86,7 @@ Esa información está en el head, no en el body.”
 
 “Y si agrego algo dentro del body, por ejemplo, un nuevo párrafo, el cambio sí se verá directamente en el contenido de la página.”
 
+<h1>Mini reto</h1>
 “Ya que conocemos la estructura, hagamos un pequeño reto: crear una mini página personal.”
 
 “Para hacerlo, abrimos un nuevo Pen y copiamos la estructura básica.”
@@ -94,6 +100,7 @@ Por eso, si quieren que su página principal se abra sola, deben llamarla así.�
 
 “Así que ya lo saben: si crean un proyecto y su archivo principal no se abre, revisen si se llama index.html.”
 
+<h1>Cierre</h1>
 “Hoy aprendimos algo fundamental: toda página HTML tiene la misma estructura básica.
 Inicia con <!DOCTYPE html>, sigue con la etiqueta <html>, y dentro están <head> y <body>.”
 
