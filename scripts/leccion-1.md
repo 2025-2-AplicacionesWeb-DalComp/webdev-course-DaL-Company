@@ -248,4 +248,4 @@ En la pantalla tienes tres pasos:
 - **Paso 3:** Finalmente, escribe un pequeño párrafo usando `<p>` donde te describas en una o dos líneas.
 
 Nos vemos en la siguiente lección, donde vamos a seguir construyendo tu primera página web paso a paso.  
-¡Gracias por ver el video y continúa practicando! 🙌
+¡Gracias por ver el video y continúa practicando! 
