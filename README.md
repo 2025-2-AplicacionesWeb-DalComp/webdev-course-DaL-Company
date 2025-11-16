@@ -53,7 +53,7 @@ Este archivo corresponde al documento solicitado en el Trabajo Complementario.
 |--------|-------------|---------|----------|--------|
 | 1 | Introducción al desarrollo web | `/starter-files/leccion-1` | `/completed-examples/leccion-1` | https://youtu.be/06TaPoQSI7U |
 | 2 | Estructura mínima HTML | `/starter-files/leccion-2` | `/completed-examples/leccion-2` | https://youtu.be/0MQ6oBm2TCA |
-| 3 | Elementos HTML comunes | `/starter-files/leccion-3` | `/completed-examples/leccion-3` | — |
+| 3 | Elementos HTML comunes | `/starter-files/leccion-3` | `/completed-examples/leccion-3` | https://youtu.be/_oN1kSTb3EU |
 | 4 | Introducción a CSS | `/starter-files/leccion-4` | `/completed-examples/leccion-4` | https://youtu.be/gBnFrPrnhUY |
 | 5 | Página web sencilla | `/starter-files/leccion-5` | `/completed-examples/leccion-5` | https://youtu.be/Fnr7sNGEAp0 |
 
@@ -104,7 +104,7 @@ No se requiere ninguna instalación.
 - Cárdenas Huaman, Mathias Andree 
 - Florez Shimabukuro, Fátima Belén
 - Cuentas Peña, Joaquin Alberto
-- 
+- Apaza Bocanegra, Elizabeth Noelia
 
 **Fecha de presentación:** 16/11/2025
 
