@@ -197,7 +197,7 @@ Se combinan todos los conceptos vistos (HTML + CSS) para construir una página s
 | 2 | Plantilla HTML base | https://www.w3schools.com/html/html_basic.asp |
 | 3 | Imágenes y enlaces | https://www.w3schools.com/html/html_images.asp |
 | 4 | Introducción a CSS | https://www.w3schools.com/css/css_intro.asp |
-| 5 | Cómo crear un sitio web simple | https://www.w3schools.com/howto/howto_website_make.asp |
+| 5 | Cómo crear un sitio web simple | https://www.w3schools.com/howto/howto_make_a_website.asp |
 
 ---
 
