@@ -1,1 +1,34 @@
+body {
+  /* [COMPLETAR: background-color] Define el color de fondo de toda la página. 
+     Se recomienda usar un color muy claro o blanco. */
+  background-color: #f2f2f2;
+  
+  /* [COMPLETAR: font-family] Define el tipo de letra principal para todo el texto. 
+     Asegúrate de incluir una fuente de reserva (ej: sans-serif). */
+  font-family: "Open Sans", sans-serif
+}
 
+h1 {
+  /* [COMPLETAR: color] Define el color del texto para los títulos principales. 
+     Elige un color llamativo, pero profesional. */
+  color: #0077cc;
+  
+  /* [COMPLETAR: text-align] Define la alineación del título (center, left o right). */
+  text-align: center;
+}
+
+ul {
+  /* [COMPLETAR: color] Define el color de las viñetas y del texto de la lista. */
+  color: #777;
+}
+
+li {
+  /* [COMPLETAR: background-color] Define el color de fondo de cada elemento de la lista. */
+  background-color: #ffffff;
+  
+  /* [COMPLETAR: padding] Espacio interno dentro de cada elemento de la lista (arriba/abajo | izquierda/derecha). */
+  padding: 12px 20px;
+  
+  /* [COMPLETAR: margin] Espacio externo entre los elementos de la lista (arriba/abajo | izquierda/derecha). */
+  margin: 8px 0;
+}
