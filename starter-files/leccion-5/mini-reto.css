@@ -1,0 +1,90 @@
+/* Estilos generales */
+body {
+    margin: /* [COMPLETAR: Margen, ej: 0] */;
+    padding: /* [COMPLETAR: Relleno, ej: 0] */;
+    background-color: /* [COMPLETAR: Color de fondo, ej: #f9f9f9] */;
+    font-family: /* [COMPLETAR: Fuente principal, ej: "Open Sans", Arial, sans-serif] */;
+    color: /* [COMPLETAR: Color de texto base, ej: #333333] */;
+}
+
+/* Encabezado */
+header {
+    text-align: /* [COMPLETAR: Alineación de texto, ej: center] */;
+    padding: /* [COMPLETAR: Relleno (arriba/abajo | izquierda/derecha), ej: 30px 20px] */;
+    background-color: /* [COMPLETAR: Color de fondo del encabezado, ej: #f3e6ff] */;
+}
+
+h1 {
+    color: /* [COMPLETAR: Color del título principal, ej: #7b2cbf] */;
+    font-size: /* [COMPLETAR: Tamaño de fuente, ej: 36px] */;
+    margin-bottom: /* [COMPLETAR: Margen inferior, ej: 10px] */;
+}
+
+h2 {
+    color: /* [COMPLETAR: Color de los subtítulos, ej: #5a189a] */;
+    margin-top: /* [COMPLETAR: Margen superior, ej: 5px] */;
+}
+
+/* Descripción debajo del nombre */
+.descripcion {
+    max-width: /* [COMPLETAR: Ancho máximo, ej: 600px] */;
+    margin: /* [COMPLETAR: Márgenes (arriba | auto | abajo), ej: 10px auto 0] */;
+    font-size: /* [COMPLETAR: Tamaño de fuente, ej: 18px] */;
+}
+
+/* Sección de presentación con imagen */
+.presentacion {
+    text-align: /* [COMPLETAR: Alineación de texto, ej: center] */;
+    padding: /* [COMPLETAR: Relleno, ej: 30px 20px] */;
+}
+
+.presentacion img {
+    border-radius: /* [COMPLETAR: Radio de borde (50% para círculo), ej: 50%] */;
+    width: /* [COMPLETAR: Ancho de la imagen, ej: 200px] */;
+    height: /* [COMPLETAR: Alto de la imagen, ej: 200px] */;
+    object-fit: /* [COMPLETAR: Ajuste de imagen (cover, contain), ej: cover] */;
+    box-shadow: /* [COMPLETAR: Sombra de la caja, ej: 0 0 10px rgba(0, 0, 0, 0.1)] */;
+    margin-bottom: /* [COMPLETAR: Margen inferior, ej: 15px] */;
+}
+
+/* Listas */
+.listas {
+    max-width: /* [COMPLETAR: Ancho máximo, ej: 800px] */;
+    margin: /* [COMPLETAR: Márgenes (para centrar), ej: 0 auto] */;
+    padding: /* [COMPLETAR: Relleno, ej: 20px] */;
+}
+
+.listas h2 {
+    margin-top: /* [COMPLETAR: Margen superior, ej: 20px] */;
+}
+
+.listas ul,
+.listas ol {
+    padding-left: /* [COMPLETAR: Relleno izquierdo (para viñetas/números), ej: 25px] */;
+    font-size: /* [COMPLETAR: Tamaño de fuente, ej: 16px] */;
+}
+
+/* Enlace externo */
+.enlace {
+    max-width: /* [COMPLETAR: Ancho máximo, ej: 800px] */;
+    margin: /* [COMPLETAR: Márgenes, ej: 0 auto 40px] */;
+    padding: /* [COMPLETAR: Relleno, ej: 20px] */;
+}
+
+.enlace a {
+    color: /* [COMPLETAR: Color del enlace, ej: #0077cc] */;
+    text-decoration: /* [COMPLETAR: Decoración (none, underline), ej: none] */;
+    font-weight: /* [COMPLETAR: Peso de fuente, ej: bold] */;
+}
+
+.enlace a:hover {
+    text-decoration: /* [COMPLETAR: Decoración al pasar el mouse, ej: underline] */;
+}
+
+/* Pie de página */
+footer {
+    text-align: /* [COMPLETAR: Alineación de texto, ej: center] */;
+    padding: /* [COMPLETAR: Relleno, ej: 15px 10px] */;
+    background-color: /* [COMPLETAR: Color de fondo del pie de página, ej: #e0c3fc] */;
+    font-size: /* [COMPLETAR: Tamaño de fuente, ej: 14px] */;
+}
