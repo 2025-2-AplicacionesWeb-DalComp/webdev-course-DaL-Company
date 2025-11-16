@@ -111,10 +111,12 @@ Las siguientes informaciones están vinculadas con cada sección del curso:
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**  
 **Carrera:** Ingeniería de Software  
+**Período:** 202520  
 **Curso:** 1ASI0730 – Aplicaciones Web  
-**Ciclo:** 202520  
 **NRC:** 7452
 
+**Nombre del equipo:** 
+**Líder del equipo:**
 **Equipo responsable**
 - Avalos Córdova, Diego Andrés  
 - Cárdenas Huaman, Mathias Andree 
