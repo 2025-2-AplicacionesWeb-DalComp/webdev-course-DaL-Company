@@ -10,19 +10,19 @@ El **objetivo** de hoy es claro: **aprender a usar los elementos más comunes de
 
 ---
 
-## Imágenes con <img>
+## Imágenes con < img>
 
 ¡Nuestro primer elemento! Para mostrar **imágenes, usamos la etiqueta `<img>`**. Esta es una etiqueta especial de "autocierre", no necesita un `</img>` porque no *envuelve* contenido, sino que lo *incrusta*. La diapositiva nos dice que debe tener dos atributos clave: **`src` y `alt`**. El **`src`** (Source) es la ruta o URL de la imagen. El **`alt`** (Alternative text) es VITAL: es lo que leen los lectores de pantalla (por accesibilidad), es lo que se muestra si la imagen falla, y es lo que usan los buscadores como Google para entender la foto. El ejemplo `alt="Un gato feliz"` es perfecto: corto y descriptivo. Es bueno saber que `<img>` funciona para fotos `.jpg`, gráficos con transparencia `.png`, o iconos `.svg`.
 
 ---
 
-## Enlaces con <a>
+## Enlaces con < a>
 
 Siguiente elemento: los **enlaces**, que son el pegamento de internet y **conectan páginas o sitios**. Para crearlos, **usamos la etiqueta `<a>` y el atributo `href`**. A diferencia de `<img>`, la `<a>` SÍ tiene una etiqueta de cierre `</a>`, porque *envuelve* el texto en el que el usuario hará clic, como en el ejemplo "Ir a Google". El `href` (Hypertext Reference) es el destino. Y el `href` es muy poderoso: no solo sirve para ir a otros sitios, también puede enlazar a otras páginas de nuestro *propio* sitio (como `contacto.html`), enlazar a otras partes de la *misma* página (usando un `#`), o incluso abrir el programa de email (usando `mailto:`).
 
 ---
 
-## Listas con <ul>, <ol> y <li>
+## Listas con <ul>, < ol> y < li>
 
 ¡Último elemento! Las **listas agrupan elementos**. Tenemos dos tipos principales: **`<ul>`** (Unordered List o Lista Desordenada) que **crea listas con viñetas**, y la usamos cuando el orden *no* importa, como una lista de súper. La segunda es **`<ol>`** (Ordered List o Lista Ordenada) que crea **listas con números**, y la usamos cuando el orden SÍ importa, como pasos a seguir. Pero ninguna funciona sola: ambas usan la etiqueta **`<li>`** (List Item) para cada elemento individual. La diapositiva 5 también nos muestra un truco genial: `<ol type="a">`, que cambia los números (1, 2, 3) por letras (a, b, c). Incluso es posible "anidar" listas, es decir, poner una `<ul>` nueva dentro de un `<li>` para crear sub-menús.
 
