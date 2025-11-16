@@ -105,7 +105,7 @@ Se trabaja el uso de atributos como `src`, `href` y `alt`.
 - Video: https://www.youtube.com/watch?v=_oN1kSTb3EU
 
 **Entorno de práctica:**  
-- CodePen base: 
+- CodePen base: https://codepen.io/uszhiyts-the-looper/pen/pvyRzba
 
 **Ejercicio principal:**
 
