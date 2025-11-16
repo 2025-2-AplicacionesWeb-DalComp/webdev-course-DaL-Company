@@ -181,7 +181,7 @@ La etiqueta `<p>` significa paragraph, y sirve para escribir textos más largos 
 
 # Mini Reto
 
-Muy bien, ahora que ya conocimos las etiquetas básicas como <h1>, <h2> y <p>, vamos a cerrar esta lección con un mini reto súper sencillo.
+Muy bien, ahora que ya conocimos las etiquetas básicas como `<h1>`, `<h2>` y `<p>`, vamos a cerrar esta lección con un mini reto súper sencillo.
 
 En la pantalla tienes tres pasos.
 
