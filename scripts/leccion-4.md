@@ -106,7 +106,7 @@ Clases (se usan con un punto "."):
     font-size: 30px;
 }
 
-///<h1 class="titulo">Bienvenido</h1>
+<h1 class="titulo">Bienvenido</h1>
 
 IDs (se usan con "#"):
 #principal {
