@@ -110,8 +110,8 @@ Se trabaja el uso de atributos como `src`, `href` y `alt`.
 **Ejercicio principal:**
 
 - Crear una pequeña sección de “Mis páginas favoritas” con:  
-  - Un título `<h1>`.  
-  - Una lista `<ul>` con links `<a>` a 3 sitios preferidos.  
+- Un título `<h1>`.  
+- Una lista `<ul>` con links `<a>` a 3 sitios preferidos.  
 
 **Mini reto:**
 
@@ -141,9 +141,9 @@ Se introduce **CSS** para dar estilo a las páginas. Se explica la sintaxis bás
 **Ejercicio principal:**
 
 - Dar estilo a una “página colorida”:  
-  - Fondo con color o gradiente.  
-  - Título `<h1>` centrado y con color.  
-  - Párrafos dentro de una caja con borde, padding y fondo suave.
+- Fondo con color o gradiente.  
+- Título `<h1>` centrado y con color.  
+- Párrafos dentro de una caja con borde, padding y fondo suave.
 
 **Mini reto:**
 
